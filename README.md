@@ -1,4 +1,4 @@
-# Upfylla
+# Upfyllt
 Wrk Demonstration Project :  Vue3 >  Rails Api > MongoDb > Docker > Stytch > AWS
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
